@@ -209,7 +209,7 @@ header nav .toggle-menue:hover + ul li a{
 /*Srart of Landing*/
 .landing{
     background-color: #626364;
-    background-image: url(/images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -380,7 +380,7 @@ header nav .toggle-menue:hover + ul li a{
     width: 100%;
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
-    background-image: url(/images/fotor-ai-20240120171431.jpg);
+    background-image: url(../images/fotor-ai-20240120171431.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -902,7 +902,7 @@ header nav .toggle-menue:hover + ul li a{
 .quote{
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
-    background-image: url(/images/Q-BG.jpg);
+    background-image: url(../images/Q-BG.jpg);
     background-size: cover;
     position: relative;
     color: white;
